@@ -1,1 +1,2 @@
 1.txt by test
+1.txt by fetch_git
